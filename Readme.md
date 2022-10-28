@@ -1,8 +1,5 @@
 # Free ebook Finder
 
-#### Video Demo:  <https://youtu.be/nq3DZiDUf1Y>
-
-
 #### Description:
 
 For the final project in CS50's introduction python course I wanted to do something with APIs, as I found the concept fascinating.
