@@ -1,0 +1,3 @@
+Required Libraries:
+tabulate: install with "pip install tabulate"
+pytest: install with "pip install pytest"
